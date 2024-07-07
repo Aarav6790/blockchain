@@ -13,11 +13,11 @@ This code tries to implement a simple crypto currency based on the working model
 
 This project is a basic implementation and lacks several features found in more advanced cryptocurrencies. Future improvements include:
 
-**P2P Network:** Implement a peer-to-peer network for decentralized transaction and block propagation.
-**Broadcasting Transactions:** Implement a mechanism to broadcast transactions to all nodes in the network.
-**Handle Forking:** Manage forks in the blockchain to ensure consensus across the network.
-**Handle Double Spending:** Prevent double spending by verifying transaction authenticity and uniqueness.
-**Better Manage Blockchains of Each Wallet:** Ensure each wallet maintains an up-to-date and accurate copy of the blockchain.
+- **P2P Network:** Implement a peer-to-peer network for decentralized transaction and block propagation.
+- **Broadcasting Transactions:** Implement a mechanism to broadcast transactions to all nodes in the network.
+- **Handle Forking:** Manage forks in the blockchain to ensure consensus across the network.
+- **Handle Double Spending:** Prevent double spending by verifying transaction authenticity and uniqueness.
+- **Better Manage Blockchains of Each Wallet:** Ensure each wallet maintains an up-to-date and accurate copy of the blockchain.
 
 
 ## Getting Started
