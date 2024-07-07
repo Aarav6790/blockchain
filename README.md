@@ -8,7 +8,7 @@ This code tries to implement a simple crypto currency based on the working model
 - **Blockchain Mining:** Implement proof-of-work to mine new blocks and add them to the blockchain.
 - **Wallet Functionality:** Create wallets with unique private and public keys, and manage balances.
 - **Blockchain Validation:** Ensure the integrity and validity of the blockchain by verifying hashes.
-- 
+
 ## Future updates
 
 This project is a basic implementation and lacks several features found in more advanced cryptocurrencies. Future improvements include:
