@@ -24,6 +24,7 @@ This project is a basic implementation and lacks several features found in more 
 
 ### Prerequisites
 
+- Python 3.x
 - `ecdsa` library
 
 ### Installation
