@@ -18,6 +18,7 @@ This project is a basic implementation and lacks several features found in more 
 - **Handle Forking:** Manage forks in the blockchain to ensure consensus across the network.
 - **Handle Double Spending:** Prevent double spending by verifying transaction authenticity and uniqueness.
 - **Better Manage Blockchains of Each Wallet:** Ensure each wallet maintains an up-to-date and accurate copy of the blockchain.
+- **Implement a reward system:** Reward nodes that successfully mine a new block, adding new currency into circulation
 
 
 ## Getting Started
